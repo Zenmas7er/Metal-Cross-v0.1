@@ -71,7 +71,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 52, Meowth, Normal, ---, 0, 0, 0, 0
 52, Meowth-Alola, Dark, ---, 0, 0, 0, 1
 52, Meowth-Galar, Steel, ---, 0, 0, 0, 2
-52, Meowth-GMax, Normal, ---, 0, 1, 0, 0
+52, Meowth-GMax, Normal, ---, 0, 2, 0, 0
 53, Persian, Normal, ---, 0, 0, 0, 0
 53, Persian-Alola, Dark, ---, 0, 0, 0, 1
 54, Psyduck, Water, ---, 0, 0, 0, 0
@@ -147,7 +147,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 108, Lickitung, Normal, ---, 0, 0, 0, 0
 109, Koffing, Poison, ---, 1, 0, 0, 0
 110, Weezing, Poison, ---, 1, 0, 0, 0
-110, Weezing-Galar, Poison, Fairy, 1, 0, 0, 0
+110, Weezing-Galar, Poison, Fairy, 1, 0, 0, 2
 111, Rhyhorn, Rock, Ground, 1, 0, 0, 0
 112, Rhydon, Rock, Ground, 1, 0, 0, 0
 113, Chansey, Normal, ---, 0, 0, 0, 0
@@ -652,7 +652,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 529, Drilbur, Ground, ---, 0, 0, 0, 0
 530, Excadrill, Ground, Steel, 0, 0, 0, 0
 531, Audino, Normal, ---, 0, 0, 0, 0
-531, Audino-Mega, Normal, Fairy, 0, 0, 0, 0
+531, Audino-Mega, Normal, Fairy, 0, 0, 1, 0
 532, Timburr, Fighting, ---, 0, 0, 0, 0
 533, Gurdurr, Fighting, ---, 0, 0, 0, 0
 534, Conkeldurr, Fighting, ---, 0, 0, 0, 0
@@ -898,7 +898,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 743, Ribombee, Bug, Fairy, 0, 0, 0, 0
 744, Rockruff, Rock, ---, 0, 0, 0, 0
 745, Lycanroc-Miday, Rock, ---, 0, 0, 0, 0
-745, Lycanroc-Midnoght, Rock, ---, 0, 1, 0, 0
+745, Lycanroc-Midnight, Rock, ---, 0, 1, 0, 0
 745, Lycanroc-Dusk, Rock, ---, 0, 1, 0, 0
 746, Wishiwashi, Water, ---, 0, 0, 0, 0
 746, Wishiwashi-School, Water, ---, 0, 1, 0, 0
@@ -986,6 +986,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 807, Zeraora, Electric, ---, 1, 0, 0, 0
 808, Meltan, Steel, ---, 0, 0, 0, 0
 809, Melmetal, Steel, ---, 0, 0, 0, 0
+809, Melmetal-GMax, Steel, ---, 0, 2, 0, 0
 810, Grookey, Grass, ---, 0, 0, 0, 0
 811, Thwackey, Grass, ---, 0, 0, 0, 0
 812, Rillaboom, Grass, ---, 0, 0, 0, 0
@@ -1039,7 +1040,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 849, Toxtricity-GMax, Electric, Poison, 0, 2, 0, 0
 850, Sizzlipede, Fire, Bug, 1, 0, 0, 0
 851, Centiskorch, Fire, Bug, 1, 0, 0, 0
-851, Centiskorch-GMax. Fire, Bug, 1, 2, 0, 0
+851, Centiskorch-GMax, Fire, Bug, 1, 2, 0, 0
 852, Clobbopus, Fighting, ---, 0, 0, 0, 0
 853, Grapploct, Fighting, ---, 0, 0, 0, 0
 854, Sinistea, Ghost, ---, 0, 0, 0, 0
@@ -1088,3 +1089,4 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 890, Zamazenta, Fighting, ---, 0, 0, 0, 0
 890, Zamazenta-Crowned, Fighting, Steel, 0, 1, 0, 0
 891, Eternatus, Dragon, Poison, 0, 0, 0, 0
+891, Eternatus-Eternamax, Dragon, Poison, 0, 1, 0, 0
