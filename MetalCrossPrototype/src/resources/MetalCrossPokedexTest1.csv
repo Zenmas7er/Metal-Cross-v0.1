@@ -85,7 +85,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 62, Poliwrath, Water, ---, 1, 0, 0, 0
 63, Abra, Psychic, ---, 0, 0, 0, 0
 64, Kadabra, Psychic, ---, 0, 0, 0, 0
-65, Alakazam, Pyschic, ---, 0, 0, 0, 0
+65, Alakazam, Psychic, ---, 0, 0, 0, 0
 65, Alakazam-Mega, Psychic, ---, 0, 0, 1, 0
 66, Machop, Fighting, ---, 0, 0, 0, 0
 67, Machoke, Fighting, ---, 0, 0, 0, 0
@@ -511,7 +511,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 420, Cherubi, Grass, ---, 0, 0, 0, 0
 421, Cherrim-Overcast, Grass, ---, 0, 0, 0, 0
 421, Cherrim-Sunshine, Grass, ---, 0, 1, 0, 0
-422, Shellos-East,  Water, ---, 1, 0, 0, 0
+422, Shellos-East, Water, ---, 1, 0, 0, 0
 422, Shellos-West, Water, ---, 1, 1, 0, 0
 423, Gastrodon-East, Water, Ground, 1, 0, 0, 0
 423, Gastrodon-West, Water, Ground, 1, 1, 0, 0
@@ -545,7 +545,7 @@ ID, Name, Type 1, Type 2, ability_consideration, IS_ALTERNATE_FORME, IS_MEGA_EVO
 448, Lucario-Mega, Fighting, Steel, 0, 0, 1, 0
 449, Hippopotas, Ground, ---, 0, 0, 0, 0
 450, Hippowdon, Ground, ---, 0, 0, 0, 0
-451, Skorupi, Posin, Bug, 0, 0, 0, 0
+451, Skorupi, Poison, Bug, 0, 0, 0, 0
 452, Drapion, Poison, Dark, 0, 0, 0, 0
 453, Croagunk, Poison, Fighting, 1, 0, 0, 0
 454, Toxicroak, Poison, Fighting, 1, 0, 0, 0
